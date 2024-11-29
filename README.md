@@ -1,2 +1,3 @@
-# BTP
-B.Tech Project in 6G networks
+# Energy Efficiency and Security Optimization in IoT Networks
+
+This project implements an Energy-Aware Security Configuration Algorithm that dynamically assigns security suites based on predicted energy levels in nonlinear systems. Utilizing the Unscented Kalman Filter (UKF) for improved energy predictions over the Extended Kalman Filter (EKF), it demonstrates enhanced efficiency in security allocation through a modified algorithm. The work includes data preprocessing, UKF-EKF performance comparison, parameter tuning, and optimizing energy consumption while meeting security needs.
